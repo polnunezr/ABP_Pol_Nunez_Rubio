@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome",
-            "url": "http://localhost:80/ABP_Pol_Nunez_Rubio/public",
+            "url": "http://localhost:8080/ABP_Pol_Nunez_Rubio/public",
             "webRoot": "${workspaceFolder}"
         }
 

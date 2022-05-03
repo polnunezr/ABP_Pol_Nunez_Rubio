@@ -7,7 +7,6 @@ use App\Http\Controllers\Controller;
 use App\Models\Curs;
 use Illuminate\Http\Request;
 use App\Http\Resources\CursResource;
-use App\Models\Cicle;
 
 
 class CursController extends Controller
